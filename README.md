@@ -32,7 +32,7 @@ Mutual information to keep most relevant features only (300) --> random forest a
 
 <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Cancer_genes.png" width="600" /> 
 
-Using boxplot to plot those genes and comparing expression in Asian VS White patients it is clearly visible higher level of expression in the latter group
+Using boxplot to plot those genes and comparing expression in Asian VS White patients it is clearly visible higher level of expression in the latter group. Higher level of expression could possibly mean more subsceptibility towards the tumor. This hypothesis it's in line with the higher mortality rate in White populations with respect to Asian
 
-<img src="https://github.com/Riccardo-Cpt/Images/blob/main/Notch_genes.png" width="650" />
+<img src="https://github.com/Riccardo-Cpt/Images/blob/main/Notch_genes.png" width="720" />
 
