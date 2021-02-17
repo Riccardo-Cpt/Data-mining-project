@@ -19,4 +19,4 @@ Feature engineering:
   <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Boxplot_after.png" width="500" />
 </p>
 
-Mutual information to keep most relevant features only (300) --> random forest accuracy around 90%, no presence of overfitting for a specific dataset
+Mutual information to keep most relevant features only (300) --> random forest accuracy around 90%, no presence of overfitting for a specific dataset observed
