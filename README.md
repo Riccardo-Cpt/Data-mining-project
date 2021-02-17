@@ -1,5 +1,9 @@
 # Data-mining-project
-Merge 3 datasets, features engineering
+
+**Goal**
+Given Asian and White Colorectal cancer patiens gene expression profiles, the aim of the project was to find the main differences between cancer in the two ethnicities.
+
+**Preprocessing** 
 
 Initial PCA and boxplot of the three merged datasets:
 <p float="left">
@@ -19,4 +23,7 @@ Feature engineering:
   <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Boxplot_after.png" width="500" />
 </p>
 
-Mutual information to keep most relevant features only (300) --> random forest accuracy around 90%, no presence of overfitting for a specific dataset observed
+Mutual information to keep most relevant features only (300) --> random forest accuracy around 90%, no presence of overfitting for a specific dataset observed, meaning they are relevant in the discrimination between Asian and White ethnicities
+
+**Cancer genes**
+12 over these 300 genes revealed cancer specific by querying 
