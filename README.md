@@ -30,9 +30,9 @@ Mutual information to keep most relevant features only (300) --> random forest a
 
 12 over these 300 genes revealed cancer specific by querying Oncogene database. Gene ontology and EnrichR databases revealed they belong to Nothch signalling pathway, regulating many downstream activities in the cell. From literature they regulate regulated cell death in case of cancer.
 
-<img src="https://github.com/Riccardo-Cpt/Images/blob/main/Cancer_genes.png" width="500" /> 
+<img src="https://github.com/Riccardo-Cpt/Images/blob/main/Cancer_genes.png" width="600" /> 
 
 Using boxplot to plot those genes and comparing expression in Asian VS White patients it is clearly visible higher level of expression in the latter group
 
-<img src="https://github.com/Riccardo-Cpt/Images/blob/main/Notch_genes.png" width="500" />
+<img src="https://github.com/Riccardo-Cpt/Images/blob/main/Notch_genes.png" width="650" />
 
