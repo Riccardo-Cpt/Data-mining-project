@@ -8,8 +8,8 @@ Given Asian and White Colorectal cancer patiens gene expression profiles, the ai
 
 3 datasets used:
 * TCGA (RNA-seq), divided in 246 White and 25 Asian patients
-* GEO (RNA-seq), (GSE154548) with 40 Korean patients
-* GEO (Affymetrix), (GSE101896) with 90 Japanese patients
+* GEO (RNA-seq), (GSE154548) with 40 Korean patients (Asian dataset)
+* GEO (Affymetrix), (GSE101896) with 90 Japanese patients (Asian dataset)
 
 **Preprocessing** 
 
