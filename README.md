@@ -1,6 +1,7 @@
 # Data-mining-project
 
 **Goal**
+
 Given Asian and White Colorectal cancer patiens gene expression profiles, the aim of the project was to find the main differences between cancer in the two ethnicities.
 
 **Preprocessing** 
@@ -26,4 +27,12 @@ Feature engineering:
 Mutual information to keep most relevant features only (300) --> random forest accuracy around 90%, no presence of overfitting for a specific dataset observed, meaning they are relevant in the discrimination between Asian and White ethnicities
 
 **Cancer genes**
-12 over these 300 genes revealed cancer specific by querying 
+
+12 over these 300 genes revealed cancer specific by querying Oncogene database. Gene ontology and EnrichR databases revealed they belong to Nothch signalling pathway, regulating many downstream activities in the cell. From literature they regulate regulated cell death in case of cancer.
+
+<img src="https://github.com/Riccardo-Cpt/Images/blob/main/Cancer_genes.png" width="500" /> 
+
+Using boxplot to plot those genes and comparing expression in Asian VS White patients it is clearly visible higher level of expression in the latter group
+
+<img src="https://github.com/Riccardo-Cpt/Images/blob/main/Notch_genes.png" width="500" />
+
