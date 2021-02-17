@@ -15,6 +15,6 @@ Feature engineering:
 * Remove features where variance is too high 
 
 <p float="left">
-  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Initial_PCA.png" width="500" /> 
-  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Initial_boxplot.png" width="500" />
+  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/PCA_after.png" width="500" /> 
+  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Boxplot_after.png" width="500" />
 </p>
