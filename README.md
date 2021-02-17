@@ -3,8 +3,8 @@ Merge 3 datasets, features engineering
 
 Initial PCA and boxplot of the three merged datasets:
 <p float="left">
-  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Initial_boxplot.png" width="300" />
-  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Initial_PCA.png" width="300" /> 
+  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Initial_PCA.png" width="600" /> 
+  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Initial_boxplot.png" width="600" />
 </p>
 
 
