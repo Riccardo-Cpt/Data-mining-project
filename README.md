@@ -4,6 +4,12 @@
 
 Given Asian and White Colorectal cancer patiens gene expression profiles, the aim of the project was to find the main differences between cancer in the two ethnicities.
 
+**Data**
+We used 3 datasets:
+  *TCGA (RNA-seq), divided in 246 White and 25 Asian patients
+  *GEO (RNA-seq), (GSE154548) with 40 Korean patients
+  *GEO (Affymetrix), (GSE101896) with 90 Japanese patients
+
 **Preprocessing** 
 
 Initial PCA and boxplot of the three merged datasets:
