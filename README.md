@@ -14,6 +14,7 @@ Feature engineering:
 * Apply comBAT again to remove batch between two datasets
 * Remove features where variance is too high 
 
-
-![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig2A_merged.jpg?raw=true)
-![alt text](https://github.com/Riccardo-Cpt/Modelling-project/blob/master/Fig2A_merged.jpg?raw=true)
+<p float="left">
+  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Initial_PCA.png" width="500" /> 
+  <img src="https://github.com/Riccardo-Cpt/Images/blob/main/Initial_boxplot.png" width="500" />
+</p>
